@@ -1,0 +1,7 @@
+
+services:
+  kafka:
+    image: apache/kafka:4.3.2
+    container_name: wildlife-kafka
+    ports:
+      - "127.0.0.1:9092:9092"

@@ -25,7 +25,7 @@ Apache Kafka
 Spark Structured Streaming
         |
         v
-Delta Lake
+    Delta Lake
    |     |     |
  Bronze Silver Gold
         |
